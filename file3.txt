@@ -1,0 +1,1 @@
+The CLI is the interface in which we enter commands for the computer to process. In plain English once again, it's the space in which you enter the commands the computer will process.
